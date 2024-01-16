@@ -1,4 +1,4 @@
-const btn = document.getElementById("calculate");
+let btn = document.getElementById("calculate");
                 const bill = document.getElementById("bill");
                 const tip = document.getElementById("tip");
                 const total = document.getElementById("TOTAL");
